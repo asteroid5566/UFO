@@ -1,5 +1,6 @@
 ## UFO
 
+![image](https://github.com/asteroid5566/UFO/blob/master/ufodemo.png)
 <br>
 
 使用Unity範例素材製作的簡單遊戲
